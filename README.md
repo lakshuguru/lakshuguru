@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LAKSHANAA</h1>
 <h3 align="center">An eager beaver Data Science scholar</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 👩‍💻 I’m currently working as a Data Engineer
 
 - 📫 How to reach me **lakshanaags@gmail.com**
 
